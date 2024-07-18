@@ -13,12 +13,13 @@ Squat Analyser is a GUI-based real-time computer vision application that uses Me
   - Proper squat depth
 - **Rep Counter**: Automatically counts repetitions based on knee-hip angle.
 - **GUI-Based**: User-friendly interface built using Tkinter for easy interaction.
-
 ## Technologies Used
 
 - **Python**
 - **OpenCV**
-- **MediaPipe**
+- **MediaPipe** <br>
+    Human pose detection by the trained model:
+    - <img src="https://ai.google.dev/static/mediapipe/images/solutions/pose_landmarks_index.png" width=500mm height=500mm>
 - **Tkinter**
 
 ## Installation
@@ -39,6 +40,10 @@ Squat Analyser is a GUI-based real-time computer vision application that uses Me
    python squat_analyser.py
    ```
 2. Choose to use either the webcam or select a video file for analysis through the GUI.
+3. Enjoy the seamless real-time analysis of your squat.
+
+## Squat Science References
+[The Real Science of Squat](/https://squatuniversity.com/2016/04/20/the-real-science-of-the-squat/)
 
 ## License
 
