@@ -39,8 +39,10 @@ Squat Analyser is a GUI-based real-time computer vision application that uses Me
    ```sh
    python squat_analyser.py
    ```
-2. Choose to use either the webcam or select a video file for analysis through the GUI.
-3. Enjoy the seamless real-time analysis of your squat.
+2. Choose to use either the webcam or select a video file for analysis through the GUI.<br>
+   If using a Video File, for best results make sure the **left side view** of your squat is captured
+4. Enjoy the seamless real-time analysis of your squat.<br>
+    Checkout the `Results` Folder for some sample videos
 
 ## Squat Science References
 [The Real Science of Squat](/https://squatuniversity.com/2016/04/20/the-real-science-of-the-squat/)
